@@ -3,7 +3,7 @@
 	top: 0;
 	left: 0;
 	width: 100%;
-	background: #333;
+	background: #111;
 	z-index: 10000;
 	height: 60px;
 	padding:20px 0 20px 0;
@@ -31,7 +31,7 @@
 
 .cbp-af-header h1 {
 	text-transform: uppercase;
-	color: #fff;
+	color: orange;
 	letter-spacing: 4px;
 	font-size: 3em;
 	margin: 0;

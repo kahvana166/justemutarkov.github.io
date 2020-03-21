@@ -31,8 +31,8 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
   line-height: 1.6em;
-  color: #666;
-  background-color: black;
+  color: #aaa;
+  background-color: #222;
 }
 
 p {
@@ -62,7 +62,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color:#888;
+	color:#ccc;
 	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	line-height:1.5em;

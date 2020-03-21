@@ -1,17 +1,17 @@
 ::-moz-selection {
-  background: orange;
+  background: #a36200;
   color: #fff;
   text-shadow: none;
 }
 ::selection {
-  background: orange;
+  background: #a36200;
   color: #fff;
   text-shadow: none;
 }
 
 
 a {
-	color: orange;
+	color: #a36200;
 }
 
 a:hover {
@@ -27,8 +27,8 @@ footer .nav-list li a:hover,footer ul.regular li a:hover  {
 }
 
 .btn-color {
-  background: orange;
-  *background: orange;
+  background: #a36200;
+  *background: #a36200;
 }
 .btn-color:hover,
 .btn-color.active,
@@ -40,15 +40,15 @@ footer .nav-list li a:hover,footer ul.regular li a:hover  {
 
 /* portfolio */
 ul.filter li.active a{
-    background: orange;	
+    background: #a36200;	
 }
 
 ul.filter li a:hover {
-    color: orange;
+    color: #a36200;
 }
 
 .portfolio-area li:hover .desc {
-    background: orange;	
+    background: #a36200;	
 }
 
 
@@ -57,25 +57,25 @@ ul.filter li a:hover {
 .icon-square:hover,
 .icon-rounded:hover,
 .icon-circled:hover {
-    background-color: orange;
+    background-color: #a36200;
 }
 [class^="icon-"].active,
 [class*=" icon-"].active {
-    background-color: orange;
+    background-color: #a36200;
 }
 
 /* header */
 
 .navbar .nav li.active a {
-	color:orange;	
+	color:#a36200;	
 }
 
 .navbar .nav li ul.dropdown-menu li a:hover, .navbar .nav li.active ul.dropdown-menu li a:hover  {
-	background:orange;
+	background:#a36200;
 	
 }
 .color {
-	background: orange;
+	background: #a36200;
 	color:#fff;
 }
 
@@ -95,7 +95,7 @@ input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
 .uneditable-input:focus {
-  border-color: orange;
+  border-color: #a36200;
   outline: 0;
   outline: thin dotted \9;
   /* IE6-9 */
@@ -104,7 +104,7 @@ input[type="color"]:focus,
 
 /* sequence slider */
 .sequence-nav .next:hover,.sequence-nav .prev:hover {
-	background: orange;
+	background: #a36200;
 }
 
 /* breadcrumb */
@@ -115,38 +115,38 @@ input[type="color"]:focus,
 
 /* accordion */
 .accordion-heading a:hover {
-	color: orange;
+	color: #a36200;
 }
 .accordion-heading .active{
-	color: orange;
+	color: #a36200;
 }
 
 /* pricing box */
 .priceBox.special .emphasis {
-  background: orange;
+  background: #a36200;
 }
 
 /* tagline */
 .tagline {
-	border-bottom:5px solid orange;
+	border-bottom:5px solid #a36200;
 }
 
 
 /* styled list */
 ul.list.colored li:before {
-	color: orange;
+	color: #a36200;
 }
 
 
 /* button */
 .btn-link {
-	color: orange;
+	color: #a36200;
 }
 
 .nav .dropdown-toggle .caret {
   margin-top: 6px;
-  border-top-color: orange;
-  border-bottom-color: orange;
+  border-top-color: #a36200;
+  border-bottom-color: #a36200;
 }
 
 
@@ -154,124 +154,124 @@ ul.list.colored li:before {
 /* tabs */
 .tabbable .nav > li > a:hover,
 .tabbable .nav > li > a:focus {
-  	background-color: orange;
+  	background-color: #a36200;
 }
 .tabbable .nav-tabs > .active > a,
 .tabbable .nav-tabs > .active > a:hover,
 .tabbable .nav-tabs > .active > a:focus {
-  	background-color: orange;
+  	background-color: #a36200;
 }
 
 /* accordion */
 .accordion-heading:hover .accordion-toggle,
 .accordion-heading:hover .accordion-toggle.inactive {
-	background:orange;
+	background:#a36200;
 }
 .accordion-heading .accordion-toggle.active {
-	background:orange;
+	background:#a36200;
 }
 
 
 
 /* label */
-.label-orange,
-.badge-orange {
-  background-color: orange;
+.label-#a36200,
+.badge-#a36200 {
+  background-color: #a36200;
 }
 
 
 /* nav */
 .nav-list > .active > a,
 .nav-list > .active > a:hover {
-  background: orange;
+  background: #a36200;
 }
 
 
 .nav-pills > .active > a,
 .nav-pills > .active > a:hover {
-  background: orange;
+  background: #a36200;
 }
 
 .nav .dropdown-toggle .caret {
-  border-top-color: orange;
-  border-bottom-color: orange;
+  border-top-color: #a36200;
+  border-bottom-color: #a36200;
 }
 
 /* custom progress bar according template skin */
-.progress-orange .bar,
-.progress .bar-orange {
-  background: orange;
+.progress-#a36200 .bar,
+.progress .bar-#a36200 {
+  background: #a36200;
 }
 
-.progress-orange.progress-striped .bar,
-.progress-striped .bar-orange {
-  background: orange;
+.progress-#a36200.progress-striped .bar,
+.progress-striped .bar-#a36200 {
+  background: #a36200;
 }
 
 /* pagination */
 
 .pagination ul li a:hover {
-  background: orange;
-  border-color:orange;
+  background: #a36200;
+  border-color:#a36200;
 }
 
 
 /* widget */
 aside .widget ul.cat li a:hover {
-	color: orange;
+	color: #a36200;
 }
 
 aside .widget ul.recent-posts li a:hover {
-	color: orange;
+	color: #a36200;
 }
 
 aside .widget ul.tags li a {
-  background: orange;
+  background: #a36200;
 }
 
 
 /* article */
 
 .entry-body a h5.title:hover {
-	color: orange;
+	color: #a36200;
 }
 
 article.blog-post .post-heading h3 a:hover {
-	color:orange;
+	color:#a36200;
 }
 
 article.last-post {
-	background: orange;
+	background: #a36200;
 }
 
 ul.time-post li.year{
-	border-bottom:1px solid orange;
+	border-bottom:1px solid #a36200;
 }
 
  /* 404 */
  
 
 .error-body{
-	background:orange;
+	background:#a36200;
 	padding:20px;
 	text-align:center;
 }
 
 /* footer */
 footer .subfooter {
-	border-top:5px solid orange;
+	border-top:5px solid #a36200;
 }
 
 /* misc */
 a.thumbnail:hover {
-  border-color: orange;
+  border-color: #a36200;
 }
 
 ul.filter li.active a:hover,.flex-control-nav li a:hover, .flex-control-nav li a.active{
-	background: orange;
+	background: #a36200;
 }
 
 .thumbnail h4 a:hover, .thumbnail .meta  span a:hover, ul.recent li h6 a:hover, ul.post-meta li a:hover, .media-body span, .media-body .media-heading a:hover, form label span, article.last-post h5 a:hover{
-	color: orange;
+	color: #a36200;
 	text-decoration:none;
 }

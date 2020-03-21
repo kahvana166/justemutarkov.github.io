@@ -78,7 +78,7 @@ img.left {
 
 /* logo */
 .logo a,.logo a:hover {
-	color:orange;
+	color:#faa019;
 	text-decoration:none;
 }
 .logo h1 {
@@ -237,7 +237,7 @@ nav select.selectmenu, select.selectmenu  {
 
 section#intro{
 	max-width: 100%;
-	background:black;
+	background:#222;
 	height:auto;
 	margin: 0 auto;
 	margin-top:80px;
@@ -1293,8 +1293,8 @@ i.icon-bg-dark {
 	outline:0;
   	display: block;
   	padding: 15px;
-	color: #23262C;
-	background:#ededed;
+	color: white;
+	background:black;
 	font-weight: 600;
 	-webkit-transition: all 0.1s linear 0s;
 	-moz-transition: all 0.1s linear 0s;
@@ -1318,7 +1318,7 @@ i.icon-bg-dark {
 }
 
 .accordion-heading .accordion-toggle.active {
-	color:#FFFFFF;
+	color:black;
 }
 
 .accordion-heading .accordion-toggle.inactive {
@@ -1377,6 +1377,7 @@ i.icon-bg-dark {
 
 .accordion-inner {
 	background: #111;
+	color: silver;
   	padding: 16px 20px;
 	border: none;
 }

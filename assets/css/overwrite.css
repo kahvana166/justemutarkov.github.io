@@ -1,6 +1,6 @@
-@font-face{
-  font-family: Bender;
-  src: url("https://www.wfonts.com/download/data/2016/04/21/bender/Bender.otf") format("otf");
+@font-face {
+  font-family: 'Bender';
+  src:url('../font/Bender.otf');
 }
 
 img {
@@ -33,7 +33,7 @@ img {
 body {
 	margin: 0;
 	font-size: 13px;
-  font-family: Bender;
+  font-family: "Bender";
   line-height: 1.6em;
   color: #aaa;
   background-color: #222;

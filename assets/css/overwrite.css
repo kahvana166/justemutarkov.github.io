@@ -1,3 +1,7 @@
+@font-face{
+  font-family: Bender;
+  src: url("https://www.wfonts.com/download/data/2016/04/21/bender/Bender.otf") format("otf");
+}
 
 img {
   /* Responsive images (ensure images don't scale beyond their parents) */
@@ -28,8 +32,8 @@ img {
 
 body {
 	margin: 0;
-	font-family: 'Open Sans', sans-serif;
 	font-size: 13px;
+  font-family: Bender;
   line-height: 1.6em;
   color: #aaa;
   background-color: #222;
@@ -63,7 +67,6 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
 	color:#ccc;
-	font-family: 'Open Sans', sans-serif;
 	font-weight:400;
 	line-height:1.5em;
 	letter-spacing:-1px;

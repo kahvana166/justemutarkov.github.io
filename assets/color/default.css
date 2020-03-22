@@ -9,7 +9,6 @@
   text-shadow: none;
 }
 
-
 a {
 	color: #a36200;
 }
@@ -34,7 +33,7 @@ footer .nav-list li a:hover,footer ul.regular li a:hover  {
 .btn-color.active,
 .btn-color.disabled,
 .btn-color[disabled] {
-  background: #398b5b;
+  background: grey;
   *background: #398b5b;
 }
 
